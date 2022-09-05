@@ -1,8 +1,8 @@
 let dataGlasses = [
   {
     id: "G1",
-    src: "./../img/g1.jpg",
-    virtualImg: "./../img/v1.png",
+    src: "./img/g1.jpg",
+    virtualImg: "./img/v1.png",
     brand: "Armani Exchange",
     name: "Bamboo wood",
     color: "Brown",
@@ -12,8 +12,8 @@ let dataGlasses = [
   },
   {
     id: "G2",
-    src: "./../img/g2.jpg",
-    virtualImg: "./../img/v2.png",
+    src: "./img/g2.jpg",
+    virtualImg: "./img/v2.png",
     brand: "Arnette",
     name: "American flag",
     color: "American flag",
@@ -23,8 +23,8 @@ let dataGlasses = [
   },
   {
     id: "G3",
-    src: "./../img/g3.jpg",
-    virtualImg: "./../img/v3.png",
+    src: "./img/g3.jpg",
+    virtualImg: "./img/v3.png",
     brand: "Burberry",
     name: "Belt of Hippolyte",
     color: "Blue",
@@ -33,8 +33,8 @@ let dataGlasses = [
   },
   {
     id: "G4",
-    src: "./../img/g4.jpg",
-    virtualImg: "./../img/v4.png",
+    src: "./img/g4.jpg",
+    virtualImg: "./img/v4.png",
     brand: "Coarch",
     name: "Cretan Bull",
     color: "Red",
@@ -43,8 +43,8 @@ let dataGlasses = [
   },
   {
     id: "G5",
-    src: "./../img/g5.jpg",
-    virtualImg: "./../img/v5.png",
+    src: "./img/g5.jpg",
+    virtualImg: "./img/v5.png",
     brand: "D&G",
     name: "JOYRIDE",
     color: "Gold",
@@ -54,8 +54,8 @@ let dataGlasses = [
   },
   {
     id: "G6",
-    src: "./../img/g6.jpg",
-    virtualImg: "./../img/v6.png",
+    src: "./img/g6.jpg",
+    virtualImg: "./img/v6.png",
     brand: "Polo",
     name: "NATTY ICE",
     color: "Blue, White",
@@ -64,8 +64,8 @@ let dataGlasses = [
   },
   {
     id: "G7",
-    src: "./../img/v7.png",
-    virtualImg: "./../img/v7.png",
+    src: "./img/g7.jpg",
+    virtualImg: "./img/v7.png",
     brand: "Ralph",
     name: "TORTOISE",
     color: "Black, Yellow",
@@ -75,8 +75,8 @@ let dataGlasses = [
   },
   {
     id: "G8",
-    src: "./../img/g8.jpg",
-    virtualImg: "./../img/v8.png",
+    src: "./img/g8.jpg",
+    virtualImg: "./img/v8.png",
     brand: "Polo",
     name: "NATTY ICE",
     color: "Red, Black",
@@ -86,8 +86,8 @@ let dataGlasses = [
   },
   {
     id: "G9",
-    src: "./../img/g9.jpg",
-    virtualImg: "./../img/v9.png",
+    src: "./img/g9.jpg",
+    virtualImg: "./img/v9.png",
     brand: "Coarch",
     name: "MIDNIGHT VIXEN REMIX",
     color: "Blue, Black",
